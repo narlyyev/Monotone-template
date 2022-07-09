@@ -72,8 +72,7 @@ a:hover {
 
 .r1 {
     margin-top: 32px;
-    border: 1px solid #cccccc;
-    box-shadow: 2px 2px 2px 2px #cccccc;
+    box-shadow: 0 0 10px 1px black;
     border-radius: 10px;
     padding: 15px;
 }
@@ -81,8 +80,7 @@ a:hover {
 .r2 {
     margin-top: 16px;
     margin-bottom: 16px;
-    border: 1px solid #cccccc;
-    box-shadow: 2px 2px 2px 2px #cccccc;
+    box-shadow: 0 0 10px 1px black;
     border-radius: 10px;
     box-shadow: inset;
     padding: 15px;
@@ -90,8 +88,7 @@ a:hover {
 
 .r3 {
     margin-top: 32px;
-    border: 1px solid #cccccc;
-    box-shadow: 2px 2px 2px 2px #cccccc;
+    box-shadow: 0 0 10px 1px black;
     border-radius: 10px;
     padding: 15px;
 }
@@ -99,8 +96,7 @@ a:hover {
 .r4 {
     margin-top: 16px;
     margin-bottom: 16px;
-    border: 1px solid #cccccc;
-    box-shadow: 2px 2px 2px 2px #cccccc;
+    box-shadow: 0 0 10px 1px black;
     border-radius: 10px;
     box-shadow: inset;
     padding: 15px;
@@ -108,8 +104,7 @@ a:hover {
 
 .r5 {
     margin-top: 32px;
-    border: 1px solid #cccccc;
-    box-shadow: 2px 2px 2px 2px #cccccc;
+    box-shadow: 0 0 10px 1px black;
     border-radius: 10px;
     padding: 15px;
 }
@@ -117,8 +112,7 @@ a:hover {
 .r6 {
     margin-top: 16px;
     margin-bottom: 16px;
-    border: 1px solid #cccccc;
-    box-shadow: 2px 2px 2px 2px #cccccc;
+    box-shadow: 0 0 10px 1px black;
     border-radius: 10px;
     box-shadow: inset;
     padding: 15px;
